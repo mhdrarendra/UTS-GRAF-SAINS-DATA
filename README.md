@@ -78,7 +78,7 @@ Data interaksi pada `events.csv` dibagi berdasarkan rentang waktu menjadi period
 
 Pembagian berdasarkan waktu ini memungkinkan evaluasi rekomendasi menggunakan data periode berikutnya, sehingga data pengujian tidak digunakan untuk membangun rekomendasi pada periode pelatihan.
 
-## Teknologi yang Digunakan
+## Tools yang Digunakan
 
 - Python
 - Jupyter Notebook
@@ -102,7 +102,8 @@ Instalasi dependensi:
 pip install -r requirements.txt
 ```
 
-## Catatan
+NAMA: Muhammad Rarendra Satiya
+NIM: 23031554117
 
 - File utama pengerjaan adalah `UTS GRAF.ipynb`.
 - File `.env` yang berisi konfigurasi kredensial Neo4j disimpan secara lokal dan tidak diunggah ke GitHub.
