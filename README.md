@@ -102,10 +102,12 @@ Instalasi dependensi:
 pip install -r requirements.txt
 ```
 
-NAMA: Muhammad Rarendra Satiya
-NIM: 23031554117
-
+## CATATAN
 - File utama pengerjaan adalah `UTS GRAF.ipynb`.
 - File `.env` yang berisi konfigurasi kredensial Neo4j disimpan secara lokal dan tidak diunggah ke GitHub.
 - Dataset yang dikecualikan harus tersedia secara lokal jika ada bagian notebook yang membutuhkannya.
 - Beberapa file CSV memiliki ukuran besar, tetapi masih di bawah batas keras GitHub sebesar 100 MB per file sehingga tetap dapat diunggah meskipun muncul peringatan ukuran.
+
+NAMA: Muhammad Rarendra Satiya
+
+NIM: 23031554117
